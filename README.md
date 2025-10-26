@@ -40,6 +40,6 @@ I'm a passionate **[back-end developer]** with experience in **[javascript and p
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- https://x.com/Joel0077777
 
 
