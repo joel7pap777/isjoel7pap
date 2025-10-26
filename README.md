@@ -1,6 +1,6 @@
 # Hi there, I'm [joel Tamatey]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://camo.githubusercontent.com/768e1ecf4fc23e635db177f59056cc6133dfb7abba69234ae09811ff4751c62d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f534135757733546433337146344647496c592f67697068792e676966)
 
 ## About Me 🚀
 
